@@ -1,2 +1,3 @@
-# LoudspeakerEngineering.github.io
+# Loudspeaker Engineering
+
 Loudspeaker Engineering.
